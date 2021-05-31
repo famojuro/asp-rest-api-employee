@@ -13,11 +13,11 @@ namespace EmployeeRestApi.Controllers
     [ApiController]
     [Produces(MediaTypeNames.Application.Json)]
     [Consumes(MediaTypeNames.Application.Json)]
-    public class EmployeeController : ControllerBase
+    public class EmployeesController : ControllerBase
     {
         private readonly IEmployeeManager _employeeManager;
 
-        public EmployeeController(IEmployeeManager employeeManager)
+        public EmployeesController(IEmployeeManager employeeManager)
         {
             _employeeManager = employeeManager;
         }
