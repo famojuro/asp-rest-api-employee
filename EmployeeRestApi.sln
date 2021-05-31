@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRestApi", "EmployeeRestApi\EmployeeRestApi.csproj", "{BF91C464-E4D7-41C3-B966-754E8EFB1D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "EmployeeData\EmployeeData.csproj", "{8DC24509-44F6-430D-8EFB-060F86ED8FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManager", "EmployeeManager\EmployeeManager.csproj", "{646DC552-4878-415E-9952-907571F14985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF91C464-E4D7-41C3-B966-754E8EFB1D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF91C464-E4D7-41C3-B966-754E8EFB1D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF91C464-E4D7-41C3-B966-754E8EFB1D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF91C464-E4D7-41C3-B966-754E8EFB1D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC24509-44F6-430D-8EFB-060F86ED8FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC24509-44F6-430D-8EFB-060F86ED8FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC24509-44F6-430D-8EFB-060F86ED8FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC24509-44F6-430D-8EFB-060F86ED8FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646DC552-4878-415E-9952-907571F14985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646DC552-4878-415E-9952-907571F14985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646DC552-4878-415E-9952-907571F14985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646DC552-4878-415E-9952-907571F14985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
